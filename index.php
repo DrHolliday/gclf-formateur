@@ -20,7 +20,7 @@ require 'html/header.php';
 ?>
 
 <section>
-	<p id="homeItro">GCLF est une superbe et ingénieuse application permettant de gérer la localisation et la recherche de ses copies légales de films</p>
+	<p id="homeItro">GCLF est une superbe et ingénieuse application permettant de gérer la localisation et la recherche de ses copies presque-légales de films</p>
 	<br /><br />
 	<form action="catalogue.php" method="get" id="homeSearch">
 		<input type="text" class="searchInput" placeholder="Titre, acteur, etc." name="q" value="" />
