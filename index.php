@@ -18,7 +18,7 @@ if ($pdoStatement && $pdoStatement->rowCount() > 0) {
 
 include 'html/header.php';
 ?>
-<!-- c'est arbaa et ça ma commision -->
+<!-- c'est mimo et ça ma commision -->
 <section>
 	<p id="homeItro">GCLF est une superbe et ingénieuse application permettant de gérer la localisation et la recherche de ses copies presque-légales de films</p>
 	<br /><br />
