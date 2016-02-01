@@ -5,7 +5,7 @@ require 'fonctions.php';
 // Connexion à la DB
 $dsn = 'mysql:dbname=movie_ganderer;host=localhost;charset=UTF8';
 $user = 'root';
-$password = '+webForce3';
+$password = '+webForce3-';
 
 // Effectuer la connexion
 $pdo = new PDO($dsn, $user, $password);
