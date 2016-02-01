@@ -1,5 +1,7 @@
 <?php
 
+//William a ajouté une commentaire important right here!!!
+
 require 'inc/config.php';
 
 // Page par défaut => 1
@@ -105,5 +107,6 @@ require 'html/header.php';
 	}
 	?>
 </section>
+<script type="text/javascript"> alert('changement'); </script>
 <?php
 require 'html/footer.php';

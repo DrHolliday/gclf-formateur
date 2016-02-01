@@ -1,7 +1,25 @@
+/*
+Hello World!
+
+*/
+@import url(https://fonts.googleapis.com/css?family=Anton);
+
+
 HTML, BODY {
+<<<<<<< HEAD
 	font-family: Verdana, sans-serif;
 }
 /*coucou :)*/
+=======
+	/*font-family: Verdana, sans-serif;*/
+	font-family: 'Anton', sans-serif;
+	background-image: url('https://i.imgur.com/iWKad22.jpg');
+	background-repeat: no-repeat;
+	background-size: 1280px;
+}
+/* Ptit commentaire posey avec geneviève de fontenayyyyyyyyyyy*/
+/* Salut les Nulos */
+>>>>>>> origin/master
 #homeSearch {
 	width : 500px;
 	margin: auto;

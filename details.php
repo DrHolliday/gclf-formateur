@@ -1,7 +1,7 @@
 <?php
-
+// Test de modification de fichier (brice) blabla
 require 'inc/config.php';
-
+//test gitub
 $currentId = 0;
 $filmInfos = array();
 // Je récupère le paramètre d'URL "page" de type integer
