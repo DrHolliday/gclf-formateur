@@ -32,6 +32,7 @@ include 'html/header.php';
 	<a href="catalogue.php?cat_id=<?php echo $curCategorieInfos['cat_id']; ?>"><?php echo $curCategorieInfos['cat_nom'].' ('.$curCategorieInfos['nb'].')'; ?></a>&nbsp; &nbsp;
 	<?php endforeach; ?>
 </section>
+<img src="https://pbs.twimg.com/profile_images/378800000822867536/3f5a00acf72df93528b6bb7cd0a4fd0c.jpeg">
 
 
 <?php
