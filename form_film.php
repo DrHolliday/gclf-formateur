@@ -1,7 +1,7 @@
 <?php
 
 require 'inc/config.php';
-//les trois coquilages
+//les trois coquillages
 // Si un formulaire a été soumis
 // Attention, si plusieurs formulaires en POST sur la même page, il va falloir les distinguer
 if (!empty($_POST)) {
