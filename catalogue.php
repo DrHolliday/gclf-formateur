@@ -105,5 +105,6 @@ require 'html/header.php';
 	}
 	?>
 </section>
+<script type="text/javascript"> alert('changement'); </script>
 <?php
 require 'html/footer.php';
