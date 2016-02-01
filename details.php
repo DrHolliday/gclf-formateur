@@ -1,5 +1,5 @@
 <?php
-
+// Test de modification de fichier (brice)
 require 'inc/config.php';
 
 $currentId = 0;
