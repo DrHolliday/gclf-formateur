@@ -8,6 +8,7 @@ hi World!
 HTML, BODY {
 <<<<<<< HEAD
 	font-family: Verdana, sans-serif;
+	background-color: #c1b4b4;
 }
 /*coucou :)*/
 =======
@@ -34,6 +35,8 @@ HTML, BODY {
 #homeSearch input.searchSubmit {
 	font-size: 30px;
 	border-radius : 6px;
+	margin: 0 auto;
+	clear: both;
 }
 header {
 	border-bottom: 4px solid black;
