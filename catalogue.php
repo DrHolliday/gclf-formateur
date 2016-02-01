@@ -1,6 +1,7 @@
 <?php
 
 //William a ajouté une commentaire important right here!!!
+//David aussi
 
 require 'inc/config.php';
 
