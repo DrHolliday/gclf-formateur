@@ -1,5 +1,7 @@
 <?php
 
+//William a ajouté une commentaire important right here!!!
+
 require 'inc/config.php';
 
 // Page par défaut => 1
