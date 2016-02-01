@@ -1,6 +1,6 @@
 <?php
 
-require 'inc/config.php';
+include 'inc/config.php';
 
 $categorieList=array();
 $sql = '
@@ -16,7 +16,7 @@ if ($pdoStatement && $pdoStatement->rowCount() > 0) {
 	$categorieList = $pdoStatement->fetchAll();
 }
 
-require 'html/header.php';
+include 'html/header.php';
 ?>
 
 <section>
@@ -35,4 +35,4 @@ require 'html/header.php';
 
 
 <?php
-require 'html/footer.php';
+include 'html/footer.php';
